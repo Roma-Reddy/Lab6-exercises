@@ -1,0 +1,21 @@
+Here are some examples of output for our program:
+
+Enter your first integer number  5
+Enter your second integer number  -10
+Sum of two integers -5
+Subtraction of two integers 15
+Product of two integers -50
+​
+Enter your first integer number 2
+Enter your second integer number 8
+Sum of two integers 10
+Subtraction of two integers -6
+Product of two integers 16
+
+Enter your first integer number 24
+Enter your second integer number 2
+Sum of two integers 26
+Subtraction of two integers 22
+Product of two integers 48
+
+
