@@ -5,8 +5,8 @@ This folder contains a simple python program.
 The program prompts the user to enter two integer values and then it computes the values and prints out the values of Addition, Subtraction and Product values of the two integers.
 
 ## Group Members
-* Madeline Fontana
-* Roma Reddy Sekhar
+* Madeline Fontana(maf315)
+* Roma Reddy Sekhar(rrs76)
 
 ## How To Use It
 Install this program by opening the code file and copying and pasting the code into Jupyter Hub or some other kind of text editor then run the code. Next, the code with ask you for two inputs. Enter these inputs into the text box that appears when you run it. Then the program will output the addition, subtraction, and product values of the two integers. If the program products the expected output (see outputexample.txt for more details) then you have succesfully installed and run the program.
